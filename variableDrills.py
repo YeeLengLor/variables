@@ -62,6 +62,7 @@ f = "l"
 print(f)
 #14) Make a variable called g that is set to "chicken". And print the variable.
 g = "chicken"
+print(g)
 #15) Make a variable called h that is set to the first 3 letters of you name, using the string indexes. And print the variable.
 h = "yee"
 print(h)
@@ -92,4 +93,4 @@ listString = ["1", "2", "3", "4", "5"]
 print(listString[3])
 #25) Make a list called listBoolean of 5 boolean variables. Then print each item in the list, using indexes.
 listBoolean = [True, True, False, True, False]
-print(listBoolean[0,1,2,3,4])
+print(listBoolean[0:4])
