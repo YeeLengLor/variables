@@ -12,9 +12,8 @@ c = "string"
 
 a = True
 
-list = [3, 4, 5
+list = [3, 4, 5]
         
 listTwo = ["3", "4", "5"]
 
-listThree = [True, False, False]
-
+listThree = [True, False, False] 
